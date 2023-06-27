@@ -1,6 +1,6 @@
 # ACG-CA2
 
-Requires Python 3.10.3.  
+Requires Python 3.10.3  
 Required Python libraries: pycryptodomex cryptography  
 
 ## Sample Usage  
