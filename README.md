@@ -1,6 +1,6 @@
 # ACG-CA2
 
-Assignment project that demonstrates secure data transfer between a server and a client in Python.
+Assignment project that demonstrates secure data transfer between a server and a client in Python.  
 Note that a virtual environment was used for the sample usage provided below.
 <br>  
 
