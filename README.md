@@ -1,6 +1,7 @@
 # ACG-CA2
 
-  
+Assignment project that demonstrates secure data transfer between a server and a client in Python.
+<br>  
 
 Requires Python 3.10.3  
 Required Python libraries: pycryptodomex cryptography  
